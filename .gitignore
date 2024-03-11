@@ -1,0 +1,15 @@
+/vendor
+/.idea/*
+
+package-lock.json
+composer-lock.json
+composer.lock
+
+/public/build/*
+./vscode/*
+
+_ide_helper.php
+
+/node_modules
+
+.env

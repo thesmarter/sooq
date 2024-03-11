@@ -1,0 +1,13 @@
+{
+    "name": "FollowUser",
+    "alias": "followuser",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\FollowUser\\Providers\\FollowUserServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

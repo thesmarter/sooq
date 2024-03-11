@@ -1,0 +1,13 @@
+{
+    "name": "BlueMarkUser",
+    "alias": "bluemarkuser",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\BlueMarkUser\\Providers\\BlueMarkUserServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

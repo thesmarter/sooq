@@ -1,0 +1,11 @@
+{
+    "name": "SlowMovingItem",
+    "alias": "slowmovingitem",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\SlowMovingItem\\Providers\\SlowMovingItemServiceProvider"
+    ],
+    "files": []
+}

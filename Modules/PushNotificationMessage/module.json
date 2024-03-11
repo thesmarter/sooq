@@ -1,0 +1,13 @@
+{
+    "name": "PushNotificationMessage",
+    "alias": "pushnotificationmessage",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\PushNotificationMessage\\Providers\\PushNotificationMessageServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

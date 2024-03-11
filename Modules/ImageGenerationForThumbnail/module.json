@@ -1,0 +1,11 @@
+{
+    "name": "ImageGenerationForThumbnail",
+    "alias": "imagegenerationforthumbnail",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\ImageGenerationForThumbnail\\Providers\\ImageGenerationForThumbnailServiceProvider"
+    ],
+    "files": []
+}

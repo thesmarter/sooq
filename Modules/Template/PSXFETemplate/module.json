@@ -1,0 +1,11 @@
+{
+    "name": "PSXFETemplate",
+    "alias": "psxfetemplate",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Template\\PSXFETemplate\\Providers\\MPCTemplate1ServiceProvider"
+    ],
+    "files": []
+}

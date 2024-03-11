@@ -1,0 +1,13 @@
+{
+    "name": "DataDeletionPolicy",
+    "alias": "datadeletionpolicy",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\DataDeletionPolicy\\Providers\\DataDeletionPolicyServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

@@ -1,0 +1,13 @@
+{
+    "name": "BlockUser",
+    "alias": "blockuser",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\BlockUser\\Providers\\BlockUserServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

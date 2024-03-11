@@ -1,0 +1,13 @@
+{
+    "name": "DeeplinkGenerator",
+    "alias": "deeplinkgenerator",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\DeeplinkGenerator\\Providers\\DeeplinkGeneratorServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

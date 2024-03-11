@@ -1,0 +1,13 @@
+{
+    "name": "ContactUsMessage",
+    "alias": "contactusmessage",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\ContactUsMessage\\Providers\\ContactUsMessageServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

@@ -1,0 +1,13 @@
+{
+    "name": "ItemPromotion",
+    "alias": "itempromotion",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\ItemPromotion\\Providers\\ItemPromotionServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

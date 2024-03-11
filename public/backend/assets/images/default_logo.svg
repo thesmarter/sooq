@@ -1,0 +1,9 @@
+<svg width="156" height="30" xmlns="http://www.w3.org/2000/svg">
+
+ <g>
+  <title>Layer 1</title>
+  <text xml:space="preserve" text-anchor="start" font-family="'Cabin'" font-size="20" id="svg_4" y="48" x="40" stroke-width="2" stroke="#000" fill="#f20c0c">Admin Panel</text>
+  <text opacity="0.7" font-weight="bold" xml:space="preserve" text-anchor="start" font-family="'Rasa'" font-size="20" id="svg_5" y="21" x="40" stroke-width="0" stroke="#000" fill="#7f0000">SmartTeam</text>
+  <path stroke="#000" id="svg_6" d="m5.955,11.55642l10.31316,0l3.18684,-9.54918l3.18685,9.54918l10.31316,0l-8.3435,5.90165l3.18701,9.54918l-8.34351,-5.90181l-8.34351,5.90181l3.18701,-9.54918l-8.34351,-5.90165z" fill="#f20c0c"/>
+ </g>
+</svg>

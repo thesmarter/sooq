@@ -1,0 +1,11 @@
+{
+    "name": "DemoDataDeletion",
+    "alias": "demodatadeletion",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\DemoDataDeletion\\Providers\\DemoDataDeletionServiceProvider"
+    ],
+    "files": []
+}
