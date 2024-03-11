@@ -13,7 +13,8 @@ Laravel is accessible, powerful, and provides tools required for large, robust a
     - then install with composer install
     - push the database and edit .env file with .env.example
     - run vite to build your view with - npm run dev
-    - database file in database/seeders/olx_dev.sql
+    - database file in database/seeders/olx2.sql
+    - last step run migrate to database 'php artisan migrate
 
 ### Links
 **[smart.sd](http://smart.sd)**
